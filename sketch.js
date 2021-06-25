@@ -6,6 +6,7 @@ var bg;
 var maxSnow=100;
 var snow=[];
 var rand;
+var ran;
 
 function preload(){
 bg=loadImage("snow3.jpg");
